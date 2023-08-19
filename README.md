@@ -31,7 +31,9 @@
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-1
+1.(https://github.com/fczalex7/image/blob/main/З1.png)
+2.(https://github.com/fczalex7/image/blob/main/З11.png)
+3.(https://github.com/fczalex7/image/blob/main/З111.png)
 
 ---
 
@@ -41,8 +43,8 @@
 Создайте новый проект pipeline.
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-
-
+1.(https://github.com/fczalex7/image/blob/main/З2.png)
+2.(https://github.com/fczalex7/image/blob/main/З21.png)
 ### Задание 3
 
 Задание 3
@@ -53,3 +55,6 @@
 Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
 Загрузите файл в репозиторий с помощью jenkins.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+1(https://github.com/fczalex7/image/blob/main/З333.png)
+2.(https://github.com/fczalex7/image/blob/main/З33.png)
+3.(https://github.com/fczalex7/image/blob/main/З3.png)
